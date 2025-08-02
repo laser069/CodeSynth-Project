@@ -1,0 +1,36 @@
+
+{
+  "Food time": "post_breakfast",
+  "item": "a cup of tea",
+  "calories": 2
+},
+{
+  "Food time": "post_breakfast",
+  "item": "2 idly",
+  "calories": 150
+},
+{
+  "Food time": "post_breakfast",
+  "item": "smoothie",
+  "calories": 200
+},
+{
+  "Food time": "post_breakfast",
+  "item": "1 plate Briyani",
+  "calories": 400
+},
+{
+  "Food time": "post_breakfast",
+  "item": "buttermilk",
+  "calories": 20
+},
+{
+  "Food time": "post_breakfast",
+  "item": "2 Chappathi",
+  "calories": 200
+},
+{
+  "Food time": "post_breakfast",
+  "item": "milk",
+  "calories": 100
+}

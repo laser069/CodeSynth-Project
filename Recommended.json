@@ -1,0 +1,28 @@
+
+{
+  "BMR": 1850,
+  "pre-breakfast": {
+    "calories": 100
+  },
+  "breakfast": {
+    "calories": 462
+  },
+  "post-breakfast": {
+    "calories": 100
+  },
+  "lunch": {
+    "calories": 647
+  },
+  "post_lunch": {
+    "calories": 100
+  },
+  "snacks": {
+    "calories": 185
+  },
+  "dinner": {
+    "calories": 456
+  },
+  "post-dinner": {
+    "calories": 100
+  }
+}
